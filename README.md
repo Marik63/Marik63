@@ -58,9 +58,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts :https://www.twilio.com/blog/create-rest-apis-java-spring-boot
 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+- [Django REST framework is a powerful and flexible toolkit for building Web APIs](https://www.django-rest-framework.org/)
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -72,7 +72,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 	<a href="https://t.me/Marik63_bot/">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 	</a>
-	<a href="mail:marat63.84@yandex.ru">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	<a href="marat63.84@yandex.ru">
+		<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
