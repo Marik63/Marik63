@@ -1,4 +1,4 @@
-<h1>
+a<h1>
   Hi 👋, I'm Marat Hairutdinov
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Marik63&style=flat-square&color=blue" alt="Marik63"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -32,7 +32,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: All of my projects are available at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- :mailbox: All of my projects are available at: [Github](https://github.com/Marik63?tab=repositories)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -54,7 +54,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marik63&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marik63&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marik63&layout=compact&theme=vision-friendly-dark)](https://github.com/Marik63/github-readme-stats)
 
 ---
 
@@ -64,3 +64,30 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+<h1 align="center">Hi there, I'm Yuriy Kravets
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align = "center"> Android Developer</h2>
+<h3 align="center"> 💻Passionate about IT technologies. Coding on Kotlin✨</h3>
+
+<p align="center"> 
+	<img src ="https://github-readme-streak-stats.herokuapp.com?user=Marik63&theme=algolia">
+	<img src ="https://github-readme-stats.vercel.app/api?username=Marik63&theme=algolia">
+</p>
+
+<p align="center"> 
+	<a href="https://www.linkedin.com/in/yuriy-kravets-01902822a/">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://t.me/Marik63_bot/">
+		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+	</a>
+	<a href="mailto:marik63.84@yandex.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
