@@ -65,21 +65,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-
-
-<h1 align="center">Hi there, I'm Yuriy Kravets
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align = "center"> Android Developer</h2>
-<h3 align="center"> 💻Passionate about IT technologies. Coding on Kotlin✨</h3>
-
-<p align="center"> 
-	<img src ="https://github-readme-streak-stats.herokuapp.com?user=Marik63&theme=algolia">
-	<img src ="https://github-readme-stats.vercel.app/api?username=Marik63&theme=algolia">
-</p>
-
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/yuriy-kravets-01902822a/">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -87,7 +72,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 	<a href="https://t.me/Marik63_bot/">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 	</a>
-	<a href="mailto:marik63.84@yandex.com">
+	<a href="mail:marat63.84@yandex.ru">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
