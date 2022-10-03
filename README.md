@@ -72,7 +72,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 	<a href="https://t.me/Marik63_bot/">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 	</a>
-	<a href="marat63.84@yandex.ru">
+	<a href="https://marat63.84@yandex.ru">
 		<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
