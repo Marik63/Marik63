@@ -1,13 +1,9 @@
-<h1>
-  Hi 👋, I'm Marat Hairutdinov
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hi 👋, I'm Anton Bulygin! Welcome my GitHub account.
 
-<h2>
-  My contacts:
-  - **Telegram: [@Marik63_bot](https://t.me/Marik63_bot)**
+## My contacts:
+  - **Telegram: [@Marik63_bot](https://t.me/Marik63_bot/)**
   - **Email: marat63.84@yandex.ru**
-</h2>
+  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
