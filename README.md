@@ -2,21 +2,14 @@
   Hi 👋, I'm Marat Hairutdinov
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+## My contacts:
+  - **Telegram: [@Marik63_bot](https://t.me/Marik63_bot/)**
+  - **Email: marat63.84@yandex.ru**
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Marik63&style=flat-square&color=blue" alt="Marik63"/>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -26,11 +19,9 @@
 ---
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Python Developer Engineer.
+- :seedling: I’m currently learning Python, Django, PostgrestSQL, MS Server
 
-- :seedling: I’m currently learning Python, T-SQL, MS Server
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I am improve development skills by training on codewars and leetcode.
 
 - :mailbox: All of my projects are available at: [Github](https://github.com/Marik63?tab=repositories)
 
@@ -66,13 +57,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> 
-	<a href="https://www.linkedin.com/in/yuriy-kravets-01902822a/">
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
 	<a href="https://t.me/Marik63_bot/">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 	</a>
-	<a href="https://marat63.84@yandex.ru">
-		<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
+
 </p>
